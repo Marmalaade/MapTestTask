@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapTestTask</string>
+    <string name="time">21:54</string>
+    <string name="date">20.06.2023</string>
+    <string name="gps">GPS</string>
+    <string name="name">Александр</string>
+    <string name="button_text">Посмотреть историю</string>
+</resources>
